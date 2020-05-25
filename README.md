@@ -2,7 +2,7 @@
 
 Kafka Streams real time project
 ---------------------------------------------
-There are 3 different projects, out of which the banking transaction is the real time aggreagation project and other 2 are starter Kafka streams project. I have included test cases as well, and the Kafka commands to create streams will be present under resources directory within a file name kafka_config.properties
+There are 3 different projects, out of which the banking transaction is the real time aggreagation project and other 2 are starter Kafka streams project. I have included test cases as well, and the Kafka commands to create streams topics, same will be present under resources directory within a file name kafka_config.properties
 
 Useful Links which I referred during the time of doing the examples are pointed below:
 
